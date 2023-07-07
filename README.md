@@ -14,14 +14,7 @@ Welcome to my **Insta Like Bot**! Please read the **terms and conditions** [**he
 1. Go to [**https://www.instagram.com/direct**](https://www.instagram.com/direct) and click on a chat
 2. Open the **Developers Console** with _Ctrl + Shift + J_
 3. **Copy** and **paste** the code from [**console.js**](console/console.js) into the browser's developer console.
-4. Replace the variables below with **appropriate** values (separated by a space).
-
-```js
-let descriptions = ""; // Example: 'software engineer computer'
-let actions = ""; // Example: 'connect follow'
-```
-
-5. Star the repo 😄
+4. Star the repo 😄
 
 > **Note** This is the temporary version of the program, download the Chrome Extension [here](docs/install.md) to use it permanently.
 
@@ -33,6 +26,10 @@ let actions = ""; // Example: 'connect follow'
 ## 📋 How to Use
 
 **Click** on the extension and click _Start_ when you want to **activate** the extension.
+
+<p align="left">
+  <img width="200px" src="https://github.com/alexlostorto/insta-like/raw/main/.github/popup.png" alt="Image of the Insta Like popup">
+</p>
 
 ## ⚖️ Terms and Conditions
 
