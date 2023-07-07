@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto Mono", monospace;
+}
+
+body {
+    width: 200px;
+    background-color: #24252A;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#start {
+    padding: 20px;
+    color: white;
+}
+
+#start:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
