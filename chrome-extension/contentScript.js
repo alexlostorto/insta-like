@@ -63,5 +63,5 @@ async function credits() {
     console.log.apply(console, ["%c Designed and Developed by Alex lo Storto %c\ud83d\ude80 ","color: #fff; background: #8000ff; padding:5px 0;","color: #fff; background: #242424; padding:5px 0 5px 5px;"])
 }
 
-setInterval(main, 10000);
+setInterval(main, 2000);
 setInterval(credits, 1000);
